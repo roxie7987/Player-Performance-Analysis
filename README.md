@@ -1,4 +1,4 @@
-# Player-Performance-Analysis
+# Player Performance Analysis
 Used Python to analyse player performance data and identify distinct player profiles using PCA and clustering techniques. Applied association rule analysis to identify relationships between attacking and defensive performance metrics.
 
 Key findings:
